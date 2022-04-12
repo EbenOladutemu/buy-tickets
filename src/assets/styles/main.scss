@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'BR-Firma-Regular';
+  src: local('BR-Firma-Regular'), url('/src/assets/font/BR-Firma-Regular.otf');
+}
+
+@font-face {
+  font-family: 'BR-Firma-Bold';
+  src: local('BR-Firma-Bold'), url('/src/assets/font/BR-Firma-Bold.otf');
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'BR-Firma-Regular';
+}
+
+body {
+  padding: 2rem;
+  background: #e5e5e5;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.align-end {
+  align-items: end;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.mb-0 {
+  margin-bottom: 0;
+}
+
+.mr-1 {
+  margin-right: 1rem;
+}
+
+.fs-1_5 {
+  font-size: 1.5rem;
+}
+
+.fs-2 {
+  font-size: 2rem;
+}
+
+.text-bold {
+  font-weight: bold;
+  font-family: 'BR-Firma-Bold';
+}

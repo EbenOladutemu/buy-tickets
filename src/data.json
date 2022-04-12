@@ -1,0 +1,254 @@
+{
+  "artistes" : [
+    {
+      "artist": {
+        "name": "Burna"
+      },
+      "venue": {
+        "city": "Lagos",
+        "ticket": "500,000"
+      },
+      "starts_at": "2022-04-11T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Skales"
+      },
+      "venue": {
+        "city": "Accra",
+        "ticket": "300,000"
+      },
+      "starts_at": "2022-02-07T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "CKay"
+      },
+      "venue": {
+        "city": "Honolulu",
+        "ticket": "400,000"
+      },
+      "starts_at": "2022-06-27T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Davido"
+      },
+      "venue": {
+        "city": "Ontario",
+        "ticket": "500,000"
+      },
+      "starts_at": "2022-10-14T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Yemi Alade"
+      },
+      "venue": {
+        "city": "Dakar",
+        "ticket": "1,450,000"
+      },
+      "starts_at": "2022-09-20T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Jon Bellion"
+      },
+      "venue": {
+        "city": "Asaba",
+        "ticket": "700,000"
+      },
+      "starts_at": "2022-04-21T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "MI Abaga"
+      },
+      "venue": {
+        "city": "Taipei",
+        "ticket": "900,000"
+      },
+      "starts_at": "2022-01-23T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Brymo"
+      },
+      "venue": {
+        "city": "Sydney",
+        "ticket": "650,000"
+      },
+      "starts_at": "2022-05-09T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "AURORA"
+      },
+      "venue": {
+        "city": "Ebute Metta",
+        "ticket": "400,000"
+      },
+      "starts_at": "2022-11-31T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Wizkid"
+      },
+      "venue": {
+        "city": "Johannesburg",
+        "ticket": "800,000"
+      },
+      "starts_at": "2022-12-10T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "1da Banton"
+      },
+      "venue": {
+        "city": "New York",
+        "ticket": "750,000"
+      },
+      "starts_at": "2022-02-19T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Kizz Daniel"
+      },
+      "venue": {
+        "city": "Manchester",
+        "ticket": "400,000"
+      },
+      "starts_at": "2022-06-27T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Travie McCoy"
+      },
+      "venue": {
+        "city": "Detroit",
+        "ticket": "200,000"
+      },
+      "starts_at": "2022-07-07T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Bruno Mars"
+      },
+      "venue": {
+        "city": "Damaturu",
+        "ticket": "100,000"
+      },
+      "starts_at": "2022-03-26T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Eminem"
+      },
+      "venue": {
+        "city": "Akure",
+        "ticket": "600,000"
+      },
+      "starts_at": "2022-09-15T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Billie Ellish"
+      },
+      "venue": {
+        "city": "Jos",
+        "ticket": "400,000"
+      },
+      "starts_at": "2022-02-29T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Sia"
+      },
+      "venue": {
+        "city": "Kansas",
+        "ticket": "350,000"
+      },
+      "starts_at": "2022-03-19T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Skylar Grey"
+      },
+      "venue": {
+        "city": "Abuja",
+        "ticket": "600,000"
+      },
+      "starts_at": "2022-06-30T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Asa"
+      },
+      "venue": {
+        "city": "Lincoln",
+        "ticket": "700,000"
+      },
+      "starts_at": "2022-07-10T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Patoranking"
+      },
+      "venue": {
+        "city": "Freetown",
+        "ticket": "550,000"
+      },
+      "starts_at": "2022-08-26T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Falz"
+      },
+      "venue": {
+        "city": "Toronto",
+        "ticket": "450,000"
+      },
+      "starts_at": "2022-12-12T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Simi"
+      },
+      "venue": {
+        "city": "Paris",
+        "ticket": "1,500,000"
+      },
+      "starts_at": "2022-04-10T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Adekunle Gold"
+      },
+      "venue": {
+        "city": "Stockholm",
+        "ticket": "900,000"
+      },
+      "starts_at": "2022-06-06T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Sarkodie"
+      },
+      "venue": {
+        "city": "Santorini",
+        "ticket": "700,000"
+      },
+      "starts_at": "2022-07-19T19:00:00"
+    },
+    {
+      "artist": {
+        "name": "Eben"
+      },
+      "venue": {
+        "city": "Fiji",
+        "ticket": "1,200,000"
+      },
+      "starts_at": "2022-05-07T19:00:00"
+    }
+  ]
+}
