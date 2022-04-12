@@ -77,11 +77,17 @@ while (i < 2) {
 
 const computedEvents = computed(() => {
   return !loading.value
-    ? allEvents.value.concat(artistes.value).filter(
-        (event) =>
-          event.artist?.name.match(new RegExp(searchText.value.trim(), "i"))
-        // || event.venue?.city.match(new RegExp(searchText.value.trim(), "i"))
-      )
+    ? allEvents.value
+        .concat(
+          artistes.value.map((artist) =>
+            Object.assign(artist, { url: allEvents.value[0]?.url })
+          )
+        )
+        .filter(
+          (event) =>
+            event.artist?.name.match(new RegExp(searchText.value.trim(), "i"))
+          // || event.venue?.city.match(new RegExp(searchText.value.trim(), "i"))
+        )
     : [];
 });
 
